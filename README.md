@@ -61,8 +61,3 @@ void MyFunction(int parameterOne,
 ```
 
 But mainly CONSISTENCY.
-
-
-```vb
-
-```
